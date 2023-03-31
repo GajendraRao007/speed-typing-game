@@ -1,6 +1,9 @@
 html, body {
-  background: black;
-  color: #00b800;
+  /* background: black; */
+  background-image: url(C:\Users\rkapi\OneDrive\Desktop\speed-typing-game\src\abc.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
   margin:0;
   padding: 0;
   padding-top: 10px;
@@ -24,7 +27,7 @@ button {
 }
 
 h1 {
-  font-size: 20px;
+  font-size: 25px;
   text-align:center;
 }
 
@@ -35,9 +38,9 @@ textarea {
   margin: 0 auto;
   outline: none;
   height: 200px;
-  background: #00b800;
+  background: #fced02;
   padding: 10px;
 }
 textarea:disabled {
-  background-color: #a5a2a2;
+  background-color: #720083;
 }
